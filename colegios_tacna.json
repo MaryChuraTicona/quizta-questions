@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "1126440",
+    "nombre": "Santa Maria",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SIR JONES 47"
+  },
+  {
+    "id": "216390",
+    "nombre": "San Martin De Porres",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SAN CAMILO 1000"
+  },
+  {
+    "id": "744888",
+    "nombre": "42019 Lastenia Rejas De Castañon",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MARIA FORERO S/N"
+  },
+  {
+    "id": "876441",
+    "nombre": "San Jose Fe Y Alegria 40",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ARIAS ARAGUEZ 1310"
+  },
+  {
+    "id": "876490",
+    "nombre": "San Ignacio De Loyola",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SIR JONES 586"
+  },
+  {
+    "id": "876474",
+    "nombre": "San Agustin",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SCORPIO 40"
+  },
+  {
+    "id": "568311",
+    "nombre": "Adventista 28 De Julio",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MILLER 184"
+  },
+  {
+    "id": "1127034",
+    "nombre": "Nuestra Señora De Fatima",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE VENEZUELA 320"
+  },
+  {
+    "id": "668764",
+    "nombre": "42217 Nuestros Heroes De La Guerra Del Pacifico",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA SACUCINI S/N"
+  },
+  {
+    "id": "1126994",
+    "nombre": "43008 Jorge Martorell Flores",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE RAMON COPAJA 118"
+  },
+  {
+    "id": "877308",
+    "nombre": "42006 San Francisco De Asis",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MODESTO MOLINA 796"
+  },
+  {
+    "id": "614966",
+    "nombre": "43006 Mercedes Indacochea",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE 2 DE MAYO 346"
+  },
+  {
+    "id": "309773",
+    "nombre": "Coronel Bolognesi",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MODESTO MOLINA S/N"
+  },
+  {
+    "id": "309799",
+    "nombre": "Francisco Antonio De Zela",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ALTO DE LIMA S/N"
+  },
+  {
+    "id": "614933",
+    "nombre": "43003 Carlos Armando Laura",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA CORONEL MENDOZA 1120"
+  },
+  {
+    "id": "614990",
+    "nombre": "42010 Santisima Niña Maria",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE PIURA 136"
+  },
+  {
+    "id": "568618",
+    "nombre": "42003 Coronel Gregorio Albarracin",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA CUZCO 444"
+  },
+  {
+    "id": "472423",
+    "nombre": "Santa Ana",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ARICA 338"
+  },
+  {
+    "id": "310227",
+    "nombre": "Cristo Rey",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA CRISTO REY 450"
+  },
+  {
+    "id": "1126952",
+    "nombre": "43005 Modesto Molina",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA PINTO 2162"
+  },
+  {
+    "id": "616938",
+    "nombre": "42195 Wilma Sotillo De Bacigalupo",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA EJERCITO 2105"
+  },
+  {
+    "id": "876383",
+    "nombre": "42022 Dr. Modesto Montesinos Zamalloa",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GREGORIO ALBARRACIN 729"
+  },
+  {
+    "id": "568592",
+    "nombre": "Jorge Basadre Grohmann",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA BASADRE Y FORERO 1960"
+  },
+  {
+    "id": "310516",
+    "nombre": "Modesto Basadre",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA HIPOLITO UNANUE 1035"
+  },
+  {
+    "id": "876417",
+    "nombre": "43009 Maria Ugarteche De Maclean",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ZELA 954"
+  },
+  {
+    "id": "1127075",
+    "nombre": "Imagina School",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SYR JONES 43"
+  },
+  {
+    "id": "877183",
+    "nombre": "El Buen Pastor",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ALTO DE LIMA 1783"
+  },
+  {
+    "id": "1126929",
+    "nombre": "Daniel Comboni",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA JORGE BASADRE SUR 1458"
+  },
+  {
+    "id": "309831",
+    "nombre": "Parroquial Corazon De Maria",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GREGORIO ALBARRACIN S/N"
+  },
+  {
+    "id": "1126911",
+    "nombre": "Miguel Pro",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CIUDAD DE DIOS MZ G LOTE 33"
+  },
+  {
+    "id": "309823",
+    "nombre": "Champagnat",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA RESTAURACION 18"
+  },
+  {
+    "id": "1215532",
+    "nombre": "42241 Hermogenes Arenas Yañez",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA 200 MILLAS S/N"
+  },
+  {
+    "id": "1215425",
+    "nombre": "42005 Jose Rosa Ara",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "JOSE ROSA ARA 1840"
+  },
+  {
+    "id": "1215813",
+    "nombre": "Hermanas Barcia Boniffatti",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA PINTO 1846"
+  },
+  {
+    "id": "1595552",
+    "nombre": "Alexander Fleming",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE URUGUAY S/N MZ B LOTE 10-11-12"
+  },
+  {
+    "id": "1595602",
+    "nombre": "William Prescott",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA SANTA CRUZ S/N"
+  },
+  {
+    "id": "1595669",
+    "nombre": "Pedro Ruiz Gallo",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE RAMON COPAJA 3"
+  },
+  {
+    "id": "1595883",
+    "nombre": "Marista De Tacna",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "PASAJE BASADRE Y FORERO 2135"
+  },
+  {
+    "id": "1596022",
+    "nombre": "Cristo Salvador",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SAN MARCOS 1045"
+  },
+  {
+    "id": "1595958",
+    "nombre": "Federico Villarreal",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE CORONEL VIDAL 745"
+  },
+  {
+    "id": "1596303",
+    "nombre": "Cima",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GREGORIO ALBARRACIN 500"
+  },
+  {
+    "id": "1596378",
+    "nombre": "Saint Gregory American College",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE VARELA 895"
+  },
+  {
+    "id": "672659",
+    "nombre": "Isaac Newton",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE GIL DE HERRERA 296"
+  },
+  {
+    "id": "1308865",
+    "nombre": "Independencia Americana",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE CORONEL BUSTIOS 155"
+  },
+  {
+    "id": "1369578",
+    "nombre": "Coronel Gregorio Albarracin Lanchipa",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA SAUCINI S/N"
+  },
+  {
+    "id": "1404987",
+    "nombre": "San Pablo",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE GIL DE HERRERA 505"
+  },
+  {
+    "id": "1525138",
+    "nombre": "Paradise International College",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GRAU S/N LOTE F-2 SECTOR SILPAY"
+  },
+  {
+    "id": "1540863",
+    "nombre": "Cientifica School",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GREGORIO ALBARRACIN 500"
+  },
+  {
+    "id": "1571959",
+    "nombre": "Internacional Elim",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE ALTO DE LIMA 1307"
+  },
+  {
+    "id": "1629146",
+    "nombre": "Peruano Norteamericano Edward Kennedy",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA CUZCO 408"
+  },
+  {
+    "id": "1669548",
+    "nombre": "Coar Tacna",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA PANAMERICANA SUR S/N"
+  },
+  {
+    "id": "1694983",
+    "nombre": "Peruano Britanico",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ L LOTE 16-19"
+  },
+  {
+    "id": "1698273",
+    "nombre": "Innova Schools - Tacna Cedros",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE VENEZUELA S/N MZ A LOTE 1"
+  },
+  {
+    "id": "1754811",
+    "nombre": "San Antonio Maria Claret",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ C LOTE 22"
+  },
+  {
+    "id": "1771195",
+    "nombre": "Prince",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SAN JOSE 315"
+  },
+  {
+    "id": "1783588",
+    "nombre": "La Torre",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE GIL DE HERRERA 505"
+  },
+  {
+    "id": "1785617",
+    "nombre": "Steve Jobs College",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE SIR JONES S/N"
+  },
+  {
+    "id": "3015377",
+    "nombre": "449 Eduardo Perez Gamboa",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "JORGE BASADRE GROHMAN"
+  },
+  {
+    "id": "3019361",
+    "nombre": "Mi Mejor Amigo",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GREGORIO ALBARRACIN 369"
+  },
+  {
+    "id": "3042173",
+    "nombre": "Ciencias - Tacna",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Tacna",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE GENERAL SUAREZ 534"
+  },
+  {
+    "id": "1127158",
+    "nombre": "42223 Manuel De Mendiburu",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE TAKANA 1825"
+  },
+  {
+    "id": "568915",
+    "nombre": "42021 Fortunato Zora Carvajal",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MARIANO MELGAR 1505"
+  },
+  {
+    "id": "876508",
+    "nombre": "42088 Don Jose De San Martin",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA JUAN MOORE 312"
+  },
+  {
+    "id": "876524",
+    "nombre": "42198 Victor Raul Haya De La Torre",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA AVIACION S/N"
+  },
+  {
+    "id": "744870",
+    "nombre": "Guillermo Auza Arce",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA EL SOL S/N"
+  },
+  {
+    "id": "1336049",
+    "nombre": "Adventista El Faro",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Alto de La Alianza",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA TARATA 1454"
+  },
+  {
+    "id": "668913",
+    "nombre": "42025 Aurelia Arce Vildoso",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Calana",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CERRO BLANCO"
+  },
+  {
+    "id": "616961",
+    "nombre": "42023 Victor Mayuri Claussen",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Calana",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA GENERAL VARELA 395"
+  },
+  {
+    "id": "716886",
+    "nombre": "42218 Mariscal Caceres",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ciudad Nueva",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA INTERNACIONAL 1249"
+  },
+  {
+    "id": "876532",
+    "nombre": "Manuel A Odria",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ciudad Nueva",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA EMANCIPACION S/N"
+  },
+  {
+    "id": "1216464",
+    "nombre": "42250 Cesar Augusto Cohaila Tamayo",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ciudad Nueva",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA MARIANO NECOCHEA 1444"
+  },
+  {
+    "id": "1595842",
+    "nombre": "42251 Simon Bolivar",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ciudad Nueva",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE DANIEL ALCIDES CARRION S/N"
+  },
+  {
+    "id": "876557",
+    "nombre": "42032 Jose Joaquin Inclan",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Inclan",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA PRINCIPAL S/N"
+  },
+  {
+    "id": "472472",
+    "nombre": "42036 Juan Maria Rejas",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Pachia",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA ARIAS ARAGUEZ S/N"
+  },
+  {
+    "id": "1597525",
+    "nombre": "42059",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Pachia",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "TOQUELA"
+  },
+  {
+    "id": "876565",
+    "nombre": "42064 Alfonso Ugarte",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Palca",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA TACNA - COLLPA LA PAZ"
+  },
+  {
+    "id": "1127190",
+    "nombre": "42068 Francisco Laso",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Palca",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "VILAVILANI"
+  },
+  {
+    "id": "1126689",
+    "nombre": "42246 Jose Olaya Balandra",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Palca",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "ANCOMARCA"
+  },
+  {
+    "id": "1126564",
+    "nombre": "42063 Jose Maria Arguedas Altamirano",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Palca",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "TACNA LA PAZ"
+  },
+  {
+    "id": "309898",
+    "nombre": "Manuel Flores Calvo",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA FRANCISCO ANTONIO DE ZELA S/N"
+  },
+  {
+    "id": "1595610",
+    "nombre": "El Shaddai",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "PROLONGACION HERMANOS REINOSO S/N"
+  },
+  {
+    "id": "1306497",
+    "nombre": "Santa Maria Eufrasia",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA SAN JOSE DE PESCHAY S/N"
+  },
+  {
+    "id": "309856",
+    "nombre": "Federico Barreto",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA INDUSTRIAL 2710"
+  },
+  {
+    "id": "1438530",
+    "nombre": "Maria De Los Angeles",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA BUGAMBILLAS 417"
+  },
+  {
+    "id": "1631746",
+    "nombre": "Verdad Y Vida - Veritas Et Vita",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE 28 DE AGOSTO 275"
+  },
+  {
+    "id": "1645209",
+    "nombre": "43505 Gustavo Pons Muzzo",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "JERUSALEN NUEVA ESPERANZA"
+  },
+  {
+    "id": "1698240",
+    "nombre": "Futura Schools",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA EL ROBLE S/N"
+  },
+  {
+    "id": "1788207",
+    "nombre": "Innova Schools - Tacna - Pocollay",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ B LOTE 06"
+  },
+  {
+    "id": "3009479",
+    "nombre": "Cumbres",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Pocollay",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA COLLPA S/N"
+  },
+  {
+    "id": "568584",
+    "nombre": "42072 Carolina Freyre Arias",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Sama",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA LOS HEROES 636"
+  },
+  {
+    "id": "1783778",
+    "nombre": "42207 San Pedro",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Sama",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA WENCESLAO ACHINGA S/N"
+  },
+  {
+    "id": "876433",
+    "nombre": "42237 Jorge Chavez",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA LAS CASUARINAS S/N"
+  },
+  {
+    "id": "876409",
+    "nombre": "42238 Enrique Paillardelle",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA MUNICIPAL S/N"
+  },
+  {
+    "id": "1216456",
+    "nombre": "Luis Alberto Sanchez",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA LOS MOLLES S/N"
+  },
+  {
+    "id": "1618271",
+    "nombre": "42255 Santa Teresita Del Niño Jesus",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA HUMBOLDT S/N MZ H LOTE 01 ETAPA II SECTOR 3"
+  },
+  {
+    "id": "1596402",
+    "nombre": "Dr. Jose Antonio Encinas Franco",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "PROMUVI S/N ETAPA II SECTOR PAMPAS DE VIÑANI"
+  },
+  {
+    "id": "1596410",
+    "nombre": "Santa Cruz",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA LA CULTURA S/N"
+  },
+  {
+    "id": "876466",
+    "nombre": "Alexander Von Humboldt",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA TARAPACA S/N"
+  },
+  {
+    "id": "1595446",
+    "nombre": "42253 Gerardo Arias Copaja",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ 1 LOTE 1 SECTOR II"
+  },
+  {
+    "id": "1367663",
+    "nombre": "Hugo Mitchell",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "PAGO ARUNTA"
+  },
+  {
+    "id": "1458710",
+    "nombre": "Pedro Paulet Mostajo",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA MUNICIPAL S/N"
+  },
+  {
+    "id": "1465657",
+    "nombre": "San Jose De Nazaret",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "PASAJE SAN JOSE DE LA AV. COLLPA S/N"
+  },
+  {
+    "id": "1628007",
+    "nombre": "42256 Esperanza Martinez De Lopez",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ T LOTE 01"
+  },
+  {
+    "id": "1640150",
+    "nombre": "43508 Procer Manuel Calderon De La Barca",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA JOSE BEDOYA S/N ETAPA IV SECTOR VIÑANI"
+  },
+  {
+    "id": "1783786",
+    "nombre": "456 El Carmelo De Maria",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ 395 LOTE 1"
+  },
+  {
+    "id": "1795129",
+    "nombre": "473 Pedro Quina Castañon",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CALLE MIRAFLORES S/N VILLA B"
+  },
+  {
+    "id": "3024767",
+    "nombre": "Señor De Los Milagros",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "MZ G LOTE 5-6-7"
+  },
+  {
+    "id": "3044203",
+    "nombre": "Supernova School",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Coronel Gregorio Albarracín Lanchipa",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "ALFONSO UGARTE III MZ D1 LOTE 32"
+  },
+  {
+    "id": "614909",
+    "nombre": "42199 Juan Velasco Alvarado",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "La Yarada los Palos",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "ASENTAMIENTO NRO 3"
+  },
+  {
+    "id": "568733",
+    "nombre": "42044 Alfonso Ugarte",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "La Yarada los Palos",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "LOS PALOS"
+  },
+  {
+    "id": "876375",
+    "nombre": "42211 Alfonso Eyzaguirre Tara",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "La Yarada los Palos",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "ASENTAMIENTO 5 Y 6"
+  },
+  {
+    "id": "1406131",
+    "nombre": "43506 Juvenal Ubaldo Ordoñez Salazar",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "La Yarada los Palos",
+    "provincia": "Tacna",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA COSTANERA - PUEBLO LIBRE KM 25"
+  },
+  {
+    "id": "876813",
+    "nombre": "42080 Simon Bolivar",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Candarave",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE PUNO S/N"
+  },
+  {
+    "id": "876805",
+    "nombre": "42113 Jose Antonio Encinas Franco",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Candarave",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "PARQUE PLAZA PRINCIPAL"
+  },
+  {
+    "id": "1126325",
+    "nombre": "42214 Tecnico Agropecuario",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Candarave",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE GENERAL ARTEMIO GARCIA VARGAS S/N"
+  },
+  {
+    "id": "1126366",
+    "nombre": "Fortunato Zora Carvajal",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Candarave",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA 2 DE MAYO S/N"
+  },
+  {
+    "id": "568741",
+    "nombre": "42075 San Martin De Porres",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Cairani",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE CANDARAVE 20"
+  },
+  {
+    "id": "1127208",
+    "nombre": "42221 Ricardo Palma",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Cairani",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA PRINCIPAL S/N"
+  },
+  {
+    "id": "594358",
+    "nombre": "42076 Jose Carlos Mariategui",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Camilaca",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE PRINCIPAL S/N"
+  },
+  {
+    "id": "1216613",
+    "nombre": "Victor Raul Haya De La Torre",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Camilaca",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "TAPAQUE"
+  },
+  {
+    "id": "616946",
+    "nombre": "42089 San Agustin",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Huanuara",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA PROLONGACION URDANIVIA"
+  },
+  {
+    "id": "669069",
+    "nombre": "42091 Enrique Demetrio Estrada Serrano",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Quilahuani",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE ALFONSO UGARTE"
+  },
+  {
+    "id": "1216530",
+    "nombre": "42127 Lucia Quispe Nina",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Quilahuani",
+    "provincia": "Candarave",
+    "departamento": "Tacna",
+    "direccion": "CALLE ZELA S/N"
+  },
+  {
+    "id": "309880",
+    "nombre": "Nuestro Señor De Locumba",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Locumba",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "CALLE CIRCUNVALACION SUR S/N"
+  },
+  {
+    "id": "1311729",
+    "nombre": "42262 Juvenal Ubaldo Ordoñez Salazar",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Locumba",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA ALTO CAMIARA - TOQUEPALA"
+  },
+  {
+    "id": "876573",
+    "nombre": "42031 Daniel Alcides Carrion",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "CORAGUAYA"
+  },
+  {
+    "id": "568808",
+    "nombre": "42028 Mariscal Guillermo Miller",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "MIRAVE ALTO"
+  },
+  {
+    "id": "672758",
+    "nombre": "Tupac Amaru Ii",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA TUPAC AMARU S/N"
+  },
+  {
+    "id": "472456",
+    "nombre": "Gustavo Antonio Pinto Zeballos",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "CALLE ARICA S/N"
+  },
+  {
+    "id": "645986",
+    "nombre": "2794 Mariscal Ramon Castilla",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "VILLA STAFF"
+  },
+  {
+    "id": "310250",
+    "nombre": "Fiscalizado Toquepala",
+    "nivel": "Secundaria",
+    "tipo": "Privada",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "AZUL"
+  },
+  {
+    "id": "568774",
+    "nombre": "42030 Luis Banchero Rossi",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ilabaya",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "ILABAYA"
+  },
+  {
+    "id": "646042",
+    "nombre": "42054 Jose Carlos Mariategui",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ite",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "AVENIDA LAS VILCAS PARTE ALTA S/N"
+  },
+  {
+    "id": "646018",
+    "nombre": "42206 Mariscal Andres Avelino Caceres",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ite",
+    "provincia": "Jorge Basadre",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA PANAMERICANA SUR KM 80"
+  },
+  {
+    "id": "876581",
+    "nombre": "Coronel Gregorio Albarracin",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tarata",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CALLE ARICA S/N"
+  },
+  {
+    "id": "309864",
+    "nombre": "Ramon Copaja",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tarata",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "AUTOPISTA VIA EVITAMIENTO S/N MZ 33 LOTE 1"
+  },
+  {
+    "id": "1127166",
+    "nombre": "43010 Horacio Zeballos Gamez",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tarata",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CARRETERA KALLAPUMA"
+  },
+  {
+    "id": "1215136",
+    "nombre": "42231 Armando Claros Caceres",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tarata",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CHILUYO CHICO"
+  },
+  {
+    "id": "614842",
+    "nombre": "42086 Heroes Albarracin",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Héroes Albarracín",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "MZ L LOTE 2"
+  },
+  {
+    "id": "594267",
+    "nombre": "42094 Horacio Zora Carvajal",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Sitajara",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CALLE SAN MARTIN S/N"
+  },
+  {
+    "id": "568683",
+    "nombre": "42096 Mateo Pumacahua",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Susapaya",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CALLE TACNA S/N"
+  },
+  {
+    "id": "594291",
+    "nombre": "42099 Manuela Flor De Silva",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Tarucachi",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CALLE TACNA S/N"
+  },
+  {
+    "id": "614818",
+    "nombre": "42101 Jorge Basadre Grohmann",
+    "nivel": "Secundaria",
+    "tipo": "Publica",
+    "distrito": "Ticaco",
+    "provincia": "Tarata",
+    "departamento": "Tacna",
+    "direccion": "CALLE A B LEGUIA - ELOY G URETA S/N"
+  }
+]
